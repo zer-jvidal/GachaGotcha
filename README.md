@@ -1,2 +1,2 @@
 # GachaGotcha
-Feeding thy Gacha Addiction
+Gacha Game Related Project | Feeding thy Gacha Addiction
